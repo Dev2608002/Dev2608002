@@ -18,3 +18,4 @@ This is the Zip file of the project
 Requirments:
 - django
 - sqlite
+-pillow
